@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Newark, New Jersey with a population of over 311k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Newark, New Jersey, US",
-  "export_job_id": "430efbab-cd81-44cf-89c7-3a40f7858e12",
+  "export_job_id": "14bbd3d1-deaa-42f2-8fab-e3688036d6a5",
   "github_org": "Beamstation-Datasets",
   "id_short": 502526,
   "location_name": "Newark",
   "location_type": "city",
   "repo_name": "all-restaurants-in-newark-new-jersey-us-sample-502526",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/502526/beamstation_502526_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_pct": 9.92,
+  "sample_pct": 9.98,
   "sample_records": 132,
   "sample_sha256": "6fe3f88c055a8cfc3d76ab81aa4db98dfec2e1f0e61d1f67c5b408644910389a",
   "sample_size_bytes": 457537,
-  "total_records": 1330,
-  "updated_at": "2026-04-07T11:17:00.876293+00:00"
+  "total_records": 1322,
+  "updated_at": "2026-04-14T11:13:28.490764+00:00"
 }
