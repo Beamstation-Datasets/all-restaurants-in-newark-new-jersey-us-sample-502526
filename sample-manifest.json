@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5a9cc8a-1fdf-4651-aafd-a2813c4a2756",
+  "export_job_id": "f8c7b32b-773b-48af-8e30-5d47522bcb1a",
   "id_short": 502526,
-  "published_at": "2026-04-21T19:29:31Z",
+  "published_at": "2026-04-28T19:50:05Z",
   "repo_name": "all-restaurants-in-newark-new-jersey-us-sample-502526",
   "sample_asset_name": "beamstation_502526_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/502526/beamstation_502526_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 134,
-  "sample_sha256": "a0f01f2367c3f333c522528c0569da1715f9646dad4939c0c7b187f318cb9ff5",
-  "sample_size_bytes": 464824,
-  "total_records": 1346
+  "sample_records": 125,
+  "sample_sha256": "38341081fe3b25ec52e6af523ead81f855382b3ca45967b897f4951404476dfe",
+  "sample_size_bytes": 433864,
+  "total_records": 1259
 }
